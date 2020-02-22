@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="button">Convert Now</string>
+    <string name="info">Create by pierx</string>
+    <string name="app_name">Convert SPR</string>
 </resources>
